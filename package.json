@@ -1,0 +1,39 @@
+{
+  "name": "chat-w-web",
+  "description": "💱 Browser extension featuring copilotkit...",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "wxt",
+    "dev:firefox": "wxt -b firefox",
+    "build": "wxt build && wxt build -b firefox",
+    "build:firefox": "wxt build -b firefox",
+    "build:chrome": "wxt build",
+    "zip": "wxt zip",
+    "zip:firefox": "wxt zip -b firefox",
+    "compile": "tsc --noEmit",
+    "postinstall": "wxt prepare",
+    "fmt": "prettier -w ."
+  },
+  "dependencies": {
+    "@copilotkit/react-core": "^1.3.1",
+    "@copilotkit/react-textarea": "^1.3.1",
+    "@copilotkit/react-ui": "^1.3.1",
+    "@copilotkit/runtime-client-gql": "^1.3.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@wxt-dev/module-react": "^1.1.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "prettier": "^3.3.3",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5.5.4",
+    "vite-plugin-node-polyfills": "^0.22.0",
+    "wxt": "^0.19.1"
+  }
+}
