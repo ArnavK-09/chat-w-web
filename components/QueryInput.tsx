@@ -4,7 +4,7 @@
 import { CopilotTextarea } from "@copilotkit/react-textarea";
 import InputButton from "~/components/InputButton";
 import { useState } from "react";
-import { initialPrompt } from "@/lib/constants";
+import { inputSuggestionPrompt } from "@/lib/constants";
 
 /**
  * Input to continue user journey from query page
@@ -29,7 +29,7 @@ export default function LandingInput({
         className="bg-[#191a1a]/95 [*>&]:!select-none !select-none hide-scrollbar max-h-[20vh] md:max-h-[24vh] overflow-y-scroll backdrop-blur-sm text-white/90 w-[100%] text-left px-2 py-2 md:px-5 md:py-4 text-xs md:text-lg border-[#343637] focus:outline-none focus:ring-0 font-semibold rounded-md border-2 overflow-x-hidden border-b-8 placeholder:!text-white placeholder:!font-semibold"
         placeholder="Query about page..."
         autosuggestionsConfig={{
-          textareaPurpose: initialPrompt,
+          textareaPurpose: inputSuggestionPrompt,
           chatApiConfigs: {},
         }}
         onKeyDown={(e) => {

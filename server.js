@@ -20,7 +20,7 @@ const serviceAdapter = new GroqAdapter({
 const server = createServer((req, res) => {
   const runtime = new CopilotRuntime();
   const handler = copilotRuntimeNodeHttpEndpoint({
-    endpoint: "/copilotkit",
+    endpoint: "/",
     runtime,
     serviceAdapter: serviceAdapter,
   });
