@@ -14,15 +14,21 @@
 
 # ✨ Installation & Demo
 
-<p align="center">
     
 
 | [**🏮🏮 CLICK HERE FOR YOUTUBE VIDEO 🏮🏮**](https://youtu.be/AEDV-N_7bIY?si=FH9sfz_4cmIPvcuJ)              |
 | ----------------------------------------- |
 | **Youtube video includes installation process and demo of browser extension!** |
 
+<p align="center">
+ <img alt="demo" src="https://github.com/user-attachments/assets/f39ffd53-0f72-4492-a238-e101649f23f4" />
 </p>
 
+    
+
+| [**🏮🏮 CLICK HERE FOR YOUTUBE VIDEO 🏮🏮**](https://youtu.be/AEDV-N_7bIY?si=FH9sfz_4cmIPvcuJ)              |
+| ----------------------------------------- |
+| **Youtube video includes installation process and demo of browser extension!** |
 
 ---
 
