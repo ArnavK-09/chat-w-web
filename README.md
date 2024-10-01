@@ -17,7 +17,7 @@
 <p align="center">
     
 
-| [**🏮🏮 CLICK HERE FOR YOUTUBE VIDEO 🏮🏮**](https://youtube.com)              |
+| [**🏮🏮 CLICK HERE FOR YOUTUBE VIDEO 🏮🏮**](https://youtu.be/AEDV-N_7bIY?si=FH9sfz_4cmIPvcuJ)              |
 | ----------------------------------------- |
 | **Youtube video includes installation process and demo of browser extension!** |
 
