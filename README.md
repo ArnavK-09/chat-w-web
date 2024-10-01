@@ -14,6 +14,16 @@
 
 # ✨ Installation & Demo
 
+<p align="center">
+    
+
+| [**🏮🏮 CLICK HERE FOR YOUTUBE VIDEO 🏮🏮**](https://youtube.com)              |
+| ----------------------------------------- |
+| **Youtube video includes installation process and demo of browser extension!** |
+
+</p>
+
+
 ---
 
 
