@@ -1,7 +1,7 @@
 <h1 align="center">🚇 Chat w/ Web 🚇</h1>
 
 <p align="center">
-    <img alt="hero" width="450" src="/public/icon/Logo.png" />
+    <img alt="hero" width="450" src="https://emoji-route.vercel.app/png/🚇" />
 </p>
 
 > [!NOTE]
